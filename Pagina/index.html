@@ -125,10 +125,12 @@
             </div>
         </section>
 
+        <!-- ... (el resto de tu index.html se mantiene igual hasta el final) ... -->
+
         <section id="view-result" class="view">
             <div class="result-container">
                 <h2 class="spotify-text">¡TuRitmo está listo!</h2>
-                <p>Basado en tus respuestas, hemos conectado con Spotify para crear esto para ti.</p>
+                <p>Basado en tus respuestas, hemos consultado tu base de datos en AWS para crear esto para ti.</p>
                 
                 <div class="mock-spotify-player">
                     <svg class="player-icon" viewBox="0 0 24 24" fill="#1DB954" width="60" height="60" xmlns="http://www.w3.org/2000/svg">
@@ -136,11 +138,16 @@
                     </svg>
                     <div class="track-info">
                         <h3>Playlist Generada</h3>
-                        <p>15 canciones • Personalizada</p>
+                        <p id="playlist-count">10 canciones • Personalizada</p>
                     </div>
                     <button class="play-btn">
                         <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
                     </button>
+                </div>
+
+                <!-- 🚨 ESTE ES EL CONTENEDOR NUEVO PARA LAS CANCIONES 🚨 -->
+                <div id="playlist-items" class="songs-list-container">
+                    <!-- Las canciones aparecerán aquí mágicamente -->
                 </div>
                 
                 <button onclick="navTo('view-home')" class="btn-secondary">Volver al inicio</button>
