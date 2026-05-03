@@ -354,3 +354,69 @@ input[type=range]::-moz-range-thumb {
     transform: scale(1.05);
     background-color: #1ed760; 
 }
+/* --- ESTILOS PARA LA LISTA DE CANCIONES DE AWS --- */
+
+/* Completar la regla que estaba cortada */
+.track-info h3 {
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+    color: var(--text-main);
+}
+
+.track-info p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--text-sec);
+}
+
+/* Contenedor de la lista */
+.songs-list-container {
+    max-width: 450px;
+    margin: -20px auto 30px auto; 
+    background: rgba(30, 30, 36, 0.5);
+    border-radius: 0 0 12px 12px;
+    border: 1px solid rgba(29, 185, 84, 0.1);
+    border-top: none;
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Estilo de cada canción individual */
+.song-item {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    transition: background 0.3s ease;
+}
+
+.song-item:hover {
+    background: rgba(29, 185, 84, 0.1);
+}
+
+.song-details {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.song-details strong {
+    color: var(--grad-3); 
+    font-size: 1rem;
+}
+
+.song-details span {
+    color: var(--text-sec);
+    font-size: 0.85rem;
+}
+
+/* Scrollbar moderno */
+.songs-list-container::-webkit-scrollbar {
+    width: 6px;
+}
+.songs-list-container::-webkit-scrollbar-thumb {
+    background: var(--card-bg);
+    border-radius: 10px;
+}
