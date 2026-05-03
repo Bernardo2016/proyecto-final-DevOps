@@ -1,0 +1,1702 @@
+[
+    {
+        "Cancion": {
+            "S": "Bohemian Rhapsody"
+        },
+        "Autor": {
+            "S": "Queen"
+        },
+        "Año": {
+            "N": 1975
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "A Night at the Opera"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Billie Jean"
+        },
+        "Autor": {
+            "S": "Michael Jackson"
+        },
+        "Año": {
+            "N": 1982
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "Thriller"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Smells Like Teen Spirit"
+        },
+        "Autor": {
+            "S": "Nirvana"
+        },
+        "Año": {
+            "N": 1991
+        },
+        "Genero": {
+            "S": "Grunge"
+        },
+        "Album": {
+            "S": "Nevermind"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Hotel California"
+        },
+        "Autor": {
+            "S": "Eagles"
+        },
+        "Año": {
+            "N": 1976
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "Hotel California"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Imagine"
+        },
+        "Autor": {
+            "S": "John Lennon"
+        },
+        "Año": {
+            "N": 1971
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "Imagine"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Like a Rolling Stone"
+        },
+        "Autor": {
+            "S": "Bob Dylan"
+        },
+        "Año": {
+            "N": 1965
+        },
+        "Genero": {
+            "S": "Folk Rock"
+        },
+        "Album": {
+            "S": "Highway 61 Revisited"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Stairway to Heaven"
+        },
+        "Autor": {
+            "S": "Led Zeppelin"
+        },
+        "Año": {
+            "N": 1971
+        },
+        "Genero": {
+            "S": "Hard Rock"
+        },
+        "Album": {
+            "S": "Led Zeppelin IV"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "One"
+        },
+        "Autor": {
+            "S": "U2"
+        },
+        "Año": {
+            "N": 1991
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "Achtung Baby"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Respect"
+        },
+        "Autor": {
+            "S": "Aretha Franklin"
+        },
+        "Año": {
+            "N": 1967
+        },
+        "Genero": {
+            "S": "Soul"
+        },
+        "Album": {
+            "S": "I Never Loved a Man the Way I Love You"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Good Vibrations"
+        },
+        "Autor": {
+            "S": "The Beach Boys"
+        },
+        "Año": {
+            "N": 1966
+        },
+        "Genero": {
+            "S": "Psychedelic Pop"
+        },
+        "Album": {
+            "S": "Pet Sounds"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Purple Haze"
+        },
+        "Autor": {
+            "S": "Jimi Hendrix"
+        },
+        "Año": {
+            "N": 1967
+        },
+        "Genero": {
+            "S": "Psychedelic Rock"
+        },
+        "Album": {
+            "S": "Are You Experienced"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Yesterday"
+        },
+        "Autor": {
+            "S": "The Beatles"
+        },
+        "Año": {
+            "N": 1965
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "Help!"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Lose Yourself"
+        },
+        "Autor": {
+            "S": "Eminem"
+        },
+        "Año": {
+            "N": 2002
+        },
+        "Genero": {
+            "S": "Hip Hop"
+        },
+        "Album": {
+            "S": "8 Mile Soundtrack"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Rolling in the Deep"
+        },
+        "Autor": {
+            "S": "Adele"
+        },
+        "Año": {
+            "N": 2010
+        },
+        "Genero": {
+            "S": "Soul"
+        },
+        "Album": {
+            "S": "21"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Hallelujah"
+        },
+        "Autor": {
+            "S": "Jeff Buckley"
+        },
+        "Año": {
+            "N": 1994
+        },
+        "Genero": {
+            "S": "Folk Rock"
+        },
+        "Album": {
+            "S": "Grace"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Superstition"
+        },
+        "Autor": {
+            "S": "Stevie Wonder"
+        },
+        "Año": {
+            "N": 1972
+        },
+        "Genero": {
+            "S": "Funk"
+        },
+        "Album": {
+            "S": "Talking Book"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Born to Run"
+        },
+        "Autor": {
+            "S": "Bruce Springsteen"
+        },
+        "Año": {
+            "N": 1975
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "Born to Run"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Purple Rain"
+        },
+        "Autor": {
+            "S": "Prince"
+        },
+        "Año": {
+            "N": 1984
+        },
+        "Genero": {
+            "S": "Pop Rock"
+        },
+        "Album": {
+            "S": "Purple Rain"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Sweet Child O' Mine"
+        },
+        "Autor": {
+            "S": "Guns N' Roses"
+        },
+        "Año": {
+            "N": 1987
+        },
+        "Genero": {
+            "S": "Hard Rock"
+        },
+        "Album": {
+            "S": "Appetite for Destruction"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "London Calling"
+        },
+        "Autor": {
+            "S": "The Clash"
+        },
+        "Año": {
+            "N": 1979
+        },
+        "Genero": {
+            "S": "Punk Rock"
+        },
+        "Album": {
+            "S": "London Calling"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Creep"
+        },
+        "Autor": {
+            "S": "Radiohead"
+        },
+        "Año": {
+            "N": 1992
+        },
+        "Genero": {
+            "S": "Alternative Rock"
+        },
+        "Album": {
+            "S": "Pablo Honey"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Hey Jude"
+        },
+        "Autor": {
+            "S": "The Beatles"
+        },
+        "Año": {
+            "N": 1968
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "The Beatles (White Album)"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Stayin' Alive"
+        },
+        "Autor": {
+            "S": "Bee Gees"
+        },
+        "Año": {
+            "N": 1977
+        },
+        "Genero": {
+            "S": "Disco"
+        },
+        "Album": {
+            "S": "Saturday Night Fever"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Wonderwall"
+        },
+        "Autor": {
+            "S": "Oasis"
+        },
+        "Año": {
+            "N": 1995
+        },
+        "Genero": {
+            "S": "Britpop"
+        },
+        "Album": {
+            "S": "What's the Story (Morning Glory)?"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Let It Be"
+        },
+        "Autor": {
+            "S": "The Beatles"
+        },
+        "Año": {
+            "N": 1970
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "Let It Be"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Suspicious Minds"
+        },
+        "Autor": {
+            "S": "Elvis Presley"
+        },
+        "Año": {
+            "N": 1969
+        },
+        "Genero": {
+            "S": "Rock & Roll"
+        },
+        "Album": {
+            "S": "From Elvis in Memphis"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Bridge Over Troubled Water"
+        },
+        "Autor": {
+            "S": "Simon & Garfunkel"
+        },
+        "Año": {
+            "N": 1970
+        },
+        "Genero": {
+            "S": "Folk"
+        },
+        "Album": {
+            "S": "Bridge Over Troubled Water"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Dreams"
+        },
+        "Autor": {
+            "S": "Fleetwood Mac"
+        },
+        "Año": {
+            "N": 1977
+        },
+        "Genero": {
+            "S": "Soft Rock"
+        },
+        "Album": {
+            "S": "Rumours"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Every Breath You Take"
+        },
+        "Autor": {
+            "S": "The Police"
+        },
+        "Año": {
+            "N": 1983
+        },
+        "Genero": {
+            "S": "New Wave"
+        },
+        "Album": {
+            "S": "Synchronicity"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "I Will Always Love You"
+        },
+        "Autor": {
+            "S": "Whitney Houston"
+        },
+        "Año": {
+            "N": 1992
+        },
+        "Genero": {
+            "S": "R&B"
+        },
+        "Album": {
+            "S": "The Bodyguard"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Under the Bridge"
+        },
+        "Autor": {
+            "S": "Red Hot Chili Peppers"
+        },
+        "Año": {
+            "N": 1991
+        },
+        "Genero": {
+            "S": "Alternative Rock"
+        },
+        "Album": {
+            "S": "Blood Sugar Sex Magik"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Sultans of Swing"
+        },
+        "Autor": {
+            "S": "Dire Straits"
+        },
+        "Año": {
+            "N": 1978
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "Dire Straits"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Should I Stay or Should I Go"
+        },
+        "Autor": {
+            "S": "The Clash"
+        },
+        "Año": {
+            "N": 1982
+        },
+        "Genero": {
+            "S": "Punk"
+        },
+        "Album": {
+            "S": "Combat Rock"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Sweet Home Alabama"
+        },
+        "Autor": {
+            "S": "Lynyrd Skynyrd"
+        },
+        "Año": {
+            "N": 1974
+        },
+        "Genero": {
+            "S": "Southern Rock"
+        },
+        "Album": {
+            "S": "Second Helping"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Go Your Own Way"
+        },
+        "Autor": {
+            "S": "Fleetwood Mac"
+        },
+        "Año": {
+            "N": 1977
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "Rumours"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "With or Without You"
+        },
+        "Autor": {
+            "S": "U2"
+        },
+        "Año": {
+            "N": 1987
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "The Joshua Tree"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "The Sound of Silence"
+        },
+        "Autor": {
+            "S": "Simon & Garfunkel"
+        },
+        "Año": {
+            "N": 1964
+        },
+        "Genero": {
+            "S": "Folk"
+        },
+        "Album": {
+            "S": "Wednesday Morning, 3 A.M."
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Thinking Out Loud"
+        },
+        "Autor": {
+            "S": "Ed Sheeran"
+        },
+        "Año": {
+            "N": 2014
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "x"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Shape of You"
+        },
+        "Autor": {
+            "S": "Ed Sheeran"
+        },
+        "Año": {
+            "N": 2017
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "÷"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Uptown Funk"
+        },
+        "Autor": {
+            "S": "Mark Ronson ft. Bruno Mars"
+        },
+        "Año": {
+            "N": 2014
+        },
+        "Genero": {
+            "S": "Funk"
+        },
+        "Album": {
+            "S": "Uptown Special"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Hello"
+        },
+        "Autor": {
+            "S": "Adele"
+        },
+        "Año": {
+            "N": 2015
+        },
+        "Genero": {
+            "S": "Soul"
+        },
+        "Album": {
+            "S": "25"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Blinding Lights"
+        },
+        "Autor": {
+            "S": "The Weeknd"
+        },
+        "Año": {
+            "N": 2019
+        },
+        "Genero": {
+            "S": "Synthwave"
+        },
+        "Album": {
+            "S": "After Hours"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Humble"
+        },
+        "Autor": {
+            "S": "Kendrick Lamar"
+        },
+        "Año": {
+            "N": 2017
+        },
+        "Genero": {
+            "S": "Hip Hop"
+        },
+        "Album": {
+            "S": "DAMN."
+        }
+    },
+    {
+        "Cancion": {
+            "S": "God's Plan"
+        },
+        "Autor": {
+            "S": "Drake"
+        },
+        "Año": {
+            "N": 2018
+        },
+        "Genero": {
+            "S": "Hip Hop"
+        },
+        "Album": {
+            "S": "Scorpion"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Despacito"
+        },
+        "Autor": {
+            "S": "Luis Fonsi"
+        },
+        "Año": {
+            "N": 2017
+        },
+        "Genero": {
+            "S": "Reggaeton"
+        },
+        "Album": {
+            "S": "Vida"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Smooth"
+        },
+        "Autor": {
+            "S": "Santana ft. Rob Thomas"
+        },
+        "Año": {
+            "N": 1999
+        },
+        "Genero": {
+            "S": "Latin Rock"
+        },
+        "Album": {
+            "S": "Supernatural"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Livin' on a Prayer"
+        },
+        "Autor": {
+            "S": "Bon Jovi"
+        },
+        "Año": {
+            "N": 1986
+        },
+        "Genero": {
+            "S": "Hard Rock"
+        },
+        "Album": {
+            "S": "Slippery When Wet"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Paint It Black"
+        },
+        "Autor": {
+            "S": "The Rolling Stones"
+        },
+        "Año": {
+            "N": 1966
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "Aftermath"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Gimme Shelter"
+        },
+        "Autor": {
+            "S": "The Rolling Stones"
+        },
+        "Año": {
+            "N": 1969
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "Let It Bleed"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Another One Bites the Dust"
+        },
+        "Autor": {
+            "S": "Queen"
+        },
+        "Año": {
+            "N": 1980
+        },
+        "Genero": {
+            "S": "Rock"
+        },
+        "Album": {
+            "S": "The Game"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Beat It"
+        },
+        "Autor": {
+            "S": "Michael Jackson"
+        },
+        "Año": {
+            "N": 1982
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "Thriller"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Take On Me"
+        },
+        "Autor": {
+            "S": "a-ha"
+        },
+        "Año": {
+            "N": 1985
+        },
+        "Genero": {
+            "S": "Synth-pop"
+        },
+        "Album": {
+            "S": "Hunting High and Low"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Material Girl"
+        },
+        "Autor": {
+            "S": "Madonna"
+        },
+        "Año": {
+            "N": 1984
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "Like a Virgin"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Like a Prayer"
+        },
+        "Autor": {
+            "S": "Madonna"
+        },
+        "Año": {
+            "N": 1989
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "Like a Prayer"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "No Woman No Cry"
+        },
+        "Autor": {
+            "S": "Bob Marley"
+        },
+        "Año": {
+            "N": 1974
+        },
+        "Genero": {
+            "S": "Reggae"
+        },
+        "Album": {
+            "S": "Natty Dread"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Redemption Song"
+        },
+        "Autor": {
+            "S": "Bob Marley"
+        },
+        "Año": {
+            "N": 1980
+        },
+        "Genero": {
+            "S": "Reggae"
+        },
+        "Album": {
+            "S": "Uprising"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Space Oddity"
+        },
+        "Autor": {
+            "S": "David Bowie"
+        },
+        "Año": {
+            "N": 1969
+        },
+        "Genero": {
+            "S": "Art Rock"
+        },
+        "Album": {
+            "S": "David Bowie"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Heroes"
+        },
+        "Autor": {
+            "S": "David Bowie"
+        },
+        "Año": {
+            "N": 1977
+        },
+        "Genero": {
+            "S": "Art Rock"
+        },
+        "Album": {
+            "S": "Heroes"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Wannabe"
+        },
+        "Autor": {
+            "S": "Spice Girls"
+        },
+        "Año": {
+            "N": 1996
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "Spice"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Back to Black"
+        },
+        "Autor": {
+            "S": "Amy Winehouse"
+        },
+        "Año": {
+            "N": 2006
+        },
+        "Genero": {
+            "S": "Soul"
+        },
+        "Album": {
+            "S": "Back to Black"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Rehab"
+        },
+        "Autor": {
+            "S": "Amy Winehouse"
+        },
+        "Año": {
+            "N": 2006
+        },
+        "Genero": {
+            "S": "Soul"
+        },
+        "Album": {
+            "S": "Back to Black"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Bad Romance"
+        },
+        "Autor": {
+            "S": "Lady Gaga"
+        },
+        "Año": {
+            "N": 2009
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "The Fame Monster"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Poker Face"
+        },
+        "Autor": {
+            "S": "Lady Gaga"
+        },
+        "Año": {
+            "N": 2008
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "The Fame"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Crazy in Love"
+        },
+        "Autor": {
+            "S": "Beyoncé"
+        },
+        "Año": {
+            "N": 2003
+        },
+        "Genero": {
+            "S": "R&B"
+        },
+        "Album": {
+            "S": "Dangerously in Love"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Single Ladies"
+        },
+        "Autor": {
+            "S": "Beyoncé"
+        },
+        "Año": {
+            "N": 2008
+        },
+        "Genero": {
+            "S": "Pop"
+        },
+        "Album": {
+            "S": "I Am... Sasha Fierce"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Clocks"
+        },
+        "Autor": {
+            "S": "Coldplay"
+        },
+        "Año": {
+            "N": 2002
+        },
+        "Genero": {
+            "S": "Alternative Rock"
+        },
+        "Album": {
+            "S": "A Rush of Blood to the Head"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Viva la Vida"
+        },
+        "Autor": {
+            "S": "Coldplay"
+        },
+        "Año": {
+            "N": 2008
+        },
+        "Genero": {
+            "S": "Baroque Pop"
+        },
+        "Album": {
+            "S": "Viva la Vida or Death and All His Friends"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Seven Nation Army"
+        },
+        "Autor": {
+            "S": "The White Stripes"
+        },
+        "Año": {
+            "N": 2003
+        },
+        "Genero": {
+            "S": "Garage Rock"
+        },
+        "Album": {
+            "S": "Elephant"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Paper Planes"
+        },
+        "Autor": {
+            "S": "M.I.A."
+        },
+        "Año": {
+            "N": 2007
+        },
+        "Genero": {
+            "S": "Hip Hop"
+        },
+        "Album": {
+            "S": "Kala"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Hey Ya!"
+        },
+        "Autor": {
+            "S": "Outkast"
+        },
+        "Año": {
+            "N": 2003
+        },
+        "Genero": {
+            "S": "Funk"
+        },
+        "Album": {
+            "S": "Speakerboxxx/The Love Below"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Stan"
+        },
+        "Autor": {
+            "S": "Eminem"
+        },
+        "Año": {
+            "N": 2000
+        },
+        "Genero": {
+            "S": "Hip Hop"
+        },
+        "Album": {
+            "S": "The Marshall Mathers LP"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "In the End"
+        },
+        "Autor": {
+            "S": "Linkin Park"
+        },
+        "Año": {
+            "N": 2000
+        },
+        "Genero": {
+            "S": "Nu Metal"
+        },
+        "Album": {
+            "S": "Hybrid Theory"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Numb"
+        },
+        "Autor": {
+            "S": "Linkin Park"
+        },
+        "Año": {
+            "N": 2003
+        },
+        "Genero": {
+            "S": "Alternative Metal"
+        },
+        "Album": {
+            "S": "Meteora"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Basket Case"
+        },
+        "Autor": {
+            "S": "Green Day"
+        },
+        "Año": {
+            "N": 1994
+        },
+        "Genero": {
+            "S": "Punk Rock"
+        },
+        "Album": {
+            "S": "Dookie"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "American Idiot"
+        },
+        "Autor": {
+            "S": "Green Day"
+        },
+        "Año": {
+            "N": 2004
+        },
+        "Genero": {
+            "S": "Punk Rock"
+        },
+        "Album": {
+            "S": "American Idiot"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Yellow"
+        },
+        "Autor": {
+            "S": "Coldplay"
+        },
+        "Año": {
+            "N": 2000
+        },
+        "Genero": {
+            "S": "Alternative Rock"
+        },
+        "Album": {
+            "S": "Parachutes"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Bitter Sweet Symphony"
+        },
+        "Autor": {
+            "S": "The Verve"
+        },
+        "Año": {
+            "N": 1997
+        },
+        "Genero": {
+            "S": "Britpop"
+        },
+        "Album": {
+            "S": "Urban Hymns"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "The Scientist"
+        },
+        "Autor": {
+            "S": "Coldplay"
+        },
+        "Año": {
+            "N": 2002
+        },
+        "Genero": {
+            "S": "Alternative Rock"
+        },
+        "Album": {
+            "S": "A Rush of Blood to the Head"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Don't Look Back in Anger"
+        },
+        "Autor": {
+            "S": "Oasis"
+        },
+        "Año": {
+            "N": 1995
+        },
+        "Genero": {
+            "S": "Britpop"
+        },
+        "Album": {
+            "S": "What's the Story (Morning Glory)?"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Zombie"
+        },
+        "Autor": {
+            "S": "The Cranberries"
+        },
+        "Año": {
+            "N": 1994
+        },
+        "Genero": {
+            "S": "Alternative Rock"
+        },
+        "Album": {
+            "S": "No Need to Argue"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Losing My Religion"
+        },
+        "Autor": {
+            "S": "R.E.M."
+        },
+        "Año": {
+            "N": 1991
+        },
+        "Genero": {
+            "S": "Alternative Rock"
+        },
+        "Album": {
+            "S": "Out of Time"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Black Hole Sun"
+        },
+        "Autor": {
+            "S": "Soundgarden"
+        },
+        "Año": {
+            "N": 1994
+        },
+        "Genero": {
+            "S": "Grunge"
+        },
+        "Album": {
+            "S": "Superunknown"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Lithium"
+        },
+        "Autor": {
+            "S": "Nirvana"
+        },
+        "Año": {
+            "N": 1991
+        },
+        "Genero": {
+            "S": "Grunge"
+        },
+        "Album": {
+            "S": "Nevermind"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Heart-Shaped Box"
+        },
+        "Autor": {
+            "S": "Nirvana"
+        },
+        "Año": {
+            "N": 1993
+        },
+        "Genero": {
+            "S": "Grunge"
+        },
+        "Album": {
+            "S": "In Utero"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Enter Sandman"
+        },
+        "Autor": {
+            "S": "Metallica"
+        },
+        "Año": {
+            "N": 1991
+        },
+        "Genero": {
+            "S": "Heavy Metal"
+        },
+        "Album": {
+            "S": "Metallica"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Master of Puppets"
+        },
+        "Autor": {
+            "S": "Metallica"
+        },
+        "Año": {
+            "N": 1986
+        },
+        "Genero": {
+            "S": "Thrash Metal"
+        },
+        "Album": {
+            "S": "Master of Puppets"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Paranoid"
+        },
+        "Autor": {
+            "S": "Black Sabbath"
+        },
+        "Año": {
+            "N": 1970
+        },
+        "Genero": {
+            "S": "Heavy Metal"
+        },
+        "Album": {
+            "S": "Paranoid"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Symphony of Destruction"
+        },
+        "Autor": {
+            "S": "Megadeth"
+        },
+        "Año": {
+            "N": 1992
+        },
+        "Genero": {
+            "S": "Heavy Metal"
+        },
+        "Album": {
+            "S": "Countdown to Extinction"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Highway to Hell"
+        },
+        "Autor": {
+            "S": "AC/DC"
+        },
+        "Año": {
+            "N": 1979
+        },
+        "Genero": {
+            "S": "Hard Rock"
+        },
+        "Album": {
+            "S": "Highway to Hell"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Back in Black"
+        },
+        "Autor": {
+            "S": "AC/DC"
+        },
+        "Año": {
+            "N": 1980
+        },
+        "Genero": {
+            "S": "Hard Rock"
+        },
+        "Album": {
+            "S": "Back in Black"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Thunderstruck"
+        },
+        "Autor": {
+            "S": "AC/DC"
+        },
+        "Año": {
+            "N": 1990
+        },
+        "Genero": {
+            "S": "Hard Rock"
+        },
+        "Album": {
+            "S": "The Razors Edge"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Comfortably Numb"
+        },
+        "Autor": {
+            "S": "Pink Floyd"
+        },
+        "Año": {
+            "N": 1979
+        },
+        "Genero": {
+            "S": "Progressive Rock"
+        },
+        "Album": {
+            "S": "The Wall"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Wish You Were Here"
+        },
+        "Autor": {
+            "S": "Pink Floyd"
+        },
+        "Año": {
+            "N": 1975
+        },
+        "Genero": {
+            "S": "Progressive Rock"
+        },
+        "Album": {
+            "S": "Wish You Were Here"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Another Brick in the Wall, Pt. 2"
+        },
+        "Autor": {
+            "S": "Pink Floyd"
+        },
+        "Año": {
+            "N": 1979
+        },
+        "Genero": {
+            "S": "Progressive Rock"
+        },
+        "Album": {
+            "S": "The Wall"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Piano Man"
+        },
+        "Autor": {
+            "S": "Billy Joel"
+        },
+        "Año": {
+            "N": 1973
+        },
+        "Genero": {
+            "S": "Soft Rock"
+        },
+        "Album": {
+            "S": "Piano Man"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Rocket Man"
+        },
+        "Autor": {
+            "S": "Elton John"
+        },
+        "Año": {
+            "N": 1972
+        },
+        "Genero": {
+            "S": "Pop Rock"
+        },
+        "Album": {
+            "S": "Honky Château"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Tiny Dancer"
+        },
+        "Autor": {
+            "S": "Elton John"
+        },
+        "Año": {
+            "N": 1971
+        },
+        "Genero": {
+            "S": "Soft Rock"
+        },
+        "Album": {
+            "S": "Madman Across the Water"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Your Song"
+        },
+        "Autor": {
+            "S": "Elton John"
+        },
+        "Año": {
+            "N": 1970
+        },
+        "Genero": {
+            "S": "Pop Rock"
+        },
+        "Album": {
+            "S": "Elton John"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Fast Car"
+        },
+        "Autor": {
+            "S": "Tracy Chapman"
+        },
+        "Año": {
+            "N": 1988
+        },
+        "Genero": {
+            "S": "Folk Rock"
+        },
+        "Album": {
+            "S": "Tracy Chapman"
+        }
+    },
+    {
+        "Cancion": {
+            "S": "Killing Me Softly With His Song"
+        },
+        "Autor": {
+            "S": "Fugees"
+        },
+        "Año": {
+            "N": 1996
+        },
+        "Genero": {
+            "S": "Hip Hop"
+        },
+        "Album": {
+            "S": "The Score"
+        }
+    }
+]

@@ -1,0 +1,101 @@
+Cancion,Autor,Año,Genero,Album
+Bohemian Rhapsody,Queen,1975,Rock,A Night at the Opera
+Billie Jean,Michael Jackson,1982,Pop,Thriller
+Smells Like Teen Spirit,Nirvana,1991,Grunge,Nevermind
+Hotel California,Eagles,1976,Rock,Hotel California
+Imagine,John Lennon,1971,Pop,Imagine
+Like a Rolling Stone,Bob Dylan,1965,Folk Rock,Highway 61 Revisited
+Stairway to Heaven,Led Zeppelin,1971,Hard Rock,Led Zeppelin IV
+One,U2,1991,Rock,Achtung Baby
+Respect,Aretha Franklin,1967,Soul,I Never Loved a Man the Way I Love You
+Good Vibrations,The Beach Boys,1966,Psychedelic Pop,Pet Sounds
+Purple Haze,Jimi Hendrix,1967,Psychedelic Rock,Are You Experienced
+Yesterday,The Beatles,1965,Pop,Help!
+Lose Yourself,Eminem,2002,Hip Hop,8 Mile Soundtrack
+Rolling in the Deep,Adele,2010,Soul,21
+Hallelujah,Jeff Buckley,1994,Folk Rock,Grace
+Superstition,Stevie Wonder,1972,Funk,Talking Book
+Born to Run,Bruce Springsteen,1975,Rock,Born to Run
+Purple Rain,Prince,1984,Pop Rock,Purple Rain
+Sweet Child O' Mine,Guns N' Roses,1987,Hard Rock,Appetite for Destruction
+London Calling,The Clash,1979,Punk Rock,London Calling
+Creep,Radiohead,1992,Alternative Rock,Pablo Honey
+Hey Jude,The Beatles,1968,Rock,The Beatles (White Album)
+Stayin' Alive,Bee Gees,1977,Disco,Saturday Night Fever
+Wonderwall,Oasis,1995,Britpop,What's the Story (Morning Glory)?
+Let It Be,The Beatles,1970,Rock,Let It Be
+Suspicious Minds,Elvis Presley,1969,Rock & Roll,From Elvis in Memphis
+Bridge Over Troubled Water,Simon & Garfunkel,1970,Folk,Bridge Over Troubled Water
+Dreams,Fleetwood Mac,1977,Soft Rock,Rumours
+Every Breath You Take,The Police,1983,New Wave,Synchronicity
+I Will Always Love You,Whitney Houston,1992,R&B,The Bodyguard
+Under the Bridge,Red Hot Chili Peppers,1991,Alternative Rock,Blood Sugar Sex Magik
+Sultans of Swing,Dire Straits,1978,Rock,Dire Straits
+Should I Stay or Should I Go,The Clash,1982,Punk,Combat Rock
+Sweet Home Alabama,Lynyrd Skynyrd,1974,Southern Rock,Second Helping
+Go Your Own Way,Fleetwood Mac,1977,Rock,Rumours
+With or Without You,U2,1987,Rock,The Joshua Tree
+The Sound of Silence,Simon & Garfunkel,1964,Folk,"Wednesday Morning, 3 A.M."
+Thinking Out Loud,Ed Sheeran,2014,Pop,x
+Shape of You,Ed Sheeran,2017,Pop,÷
+Uptown Funk,Mark Ronson ft. Bruno Mars,2014,Funk,Uptown Special
+Hello,Adele,2015,Soul,25
+Blinding Lights,The Weeknd,2019,Synthwave,After Hours
+Humble,Kendrick Lamar,2017,Hip Hop,DAMN.
+God's Plan,Drake,2018,Hip Hop,Scorpion
+Despacito,Luis Fonsi,2017,Reggaeton,Vida
+Smooth,Santana ft. Rob Thomas,1999,Latin Rock,Supernatural
+Livin' on a Prayer,Bon Jovi,1986,Hard Rock,Slippery When Wet
+Paint It Black,The Rolling Stones,1966,Rock,Aftermath
+Gimme Shelter,The Rolling Stones,1969,Rock,Let It Bleed
+Another One Bites the Dust,Queen,1980,Rock,The Game
+Beat It,Michael Jackson,1982,Pop,Thriller
+Take On Me,a-ha,1985,Synth-pop,Hunting High and Low
+Material Girl,Madonna,1984,Pop,Like a Virgin
+Like a Prayer,Madonna,1989,Pop,Like a Prayer
+No Woman No Cry,Bob Marley,1974,Reggae,Natty Dread
+Redemption Song,Bob Marley,1980,Reggae,Uprising
+Space Oddity,David Bowie,1969,Art Rock,David Bowie
+Heroes,David Bowie,1977,Art Rock,Heroes
+Wannabe,Spice Girls,1996,Pop,Spice
+Back to Black,Amy Winehouse,2006,Soul,Back to Black
+Rehab,Amy Winehouse,2006,Soul,Back to Black
+Bad Romance,Lady Gaga,2009,Pop,The Fame Monster
+Poker Face,Lady Gaga,2008,Pop,The Fame
+Crazy in Love,Beyoncé,2003,R&B,Dangerously in Love
+Single Ladies,Beyoncé,2008,Pop,I Am... Sasha Fierce
+Clocks,Coldplay,2002,Alternative Rock,A Rush of Blood to the Head
+Viva la Vida,Coldplay,2008,Baroque Pop,Viva la Vida or Death and All His Friends
+Seven Nation Army,The White Stripes,2003,Garage Rock,Elephant
+Paper Planes,M.I.A.,2007,Hip Hop,Kala
+Hey Ya!,Outkast,2003,Funk,Speakerboxxx/The Love Below
+Stan,Eminem,2000,Hip Hop,The Marshall Mathers LP
+In the End,Linkin Park,2000,Nu Metal,Hybrid Theory
+Numb,Linkin Park,2003,Alternative Metal,Meteora
+Basket Case,Green Day,1994,Punk Rock,Dookie
+American Idiot,Green Day,2004,Punk Rock,American Idiot
+Yellow,Coldplay,2000,Alternative Rock,Parachutes
+Bitter Sweet Symphony,The Verve,1997,Britpop,Urban Hymns
+The Scientist,Coldplay,2002,Alternative Rock,A Rush of Blood to the Head
+Don't Look Back in Anger,Oasis,1995,Britpop,What's the Story (Morning Glory)?
+Zombie,The Cranberries,1994,Alternative Rock,No Need to Argue
+Losing My Religion,R.E.M.,1991,Alternative Rock,Out of Time
+Black Hole Sun,Soundgarden,1994,Grunge,Superunknown
+Lithium,Nirvana,1991,Grunge,Nevermind
+Heart-Shaped Box,Nirvana,1993,Grunge,In Utero
+Enter Sandman,Metallica,1991,Heavy Metal,Metallica
+Master of Puppets,Metallica,1986,Thrash Metal,Master of Puppets
+Paranoid,Black Sabbath,1970,Heavy Metal,Paranoid
+Symphony of Destruction,Megadeth,1992,Heavy Metal,Countdown to Extinction
+Highway to Hell,AC/DC,1979,Hard Rock,Highway to Hell
+Back in Black,AC/DC,1980,Hard Rock,Back in Black
+Thunderstruck,AC/DC,1990,Hard Rock,The Razors Edge
+Comfortably Numb,Pink Floyd,1979,Progressive Rock,The Wall
+Wish You Were Here,Pink Floyd,1975,Progressive Rock,Wish You Were Here
+"Another Brick in the Wall, Pt. 2",Pink Floyd,1979,Progressive Rock,The Wall
+Piano Man,Billy Joel,1973,Soft Rock,Piano Man
+Rocket Man,Elton John,1972,Pop Rock,Honky Château
+Tiny Dancer,Elton John,1971,Soft Rock,Madman Across the Water
+Your Song,Elton John,1970,Pop Rock,Elton John
+Fast Car,Tracy Chapman,1988,Folk Rock,Tracy Chapman
+Killing Me Softly With His Song,Fugees,1996,Hip Hop,The Score
