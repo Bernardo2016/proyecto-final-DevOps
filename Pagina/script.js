@@ -27,23 +27,36 @@ function determineGenre(answers) {
     const mood = answers.q4;   // Triste(1) a Motivadora(5)
     const stress = answers.q5; // Nada(1) a Muchísimo(5)
 
-    // Lógica de mapeo de emociones a géneros basados en tu base de datos
     if (energy >= 4 && mood >= 4) {
-        return "Pop"; // Canciones como "Uptown Funk" o "Crazy in Love"
+        return "Pop"; 
     } else if (energy >= 4 && stress >= 4) {
-        return "Hard Rock"; // Para liberar tensión, ej. AC/DC o Guns N' Roses
+        return "Hard Rock"; 
     } else if (energy <= 2 && mood <= 2) {
-        return "Soul"; // Canciones melancólicas, ej. Amy Winehouse o Adele
+        return "Soul"; 
     } else if (mood === 3 && energy === 3) {
-        return "Alternative Rock"; // Punto medio, ej. Coldplay o Radiohead
+        return "Alternative Rock"; 
     } else if (stress <= 2 && mood >= 4) {
-        return "Funk"; // Relajado pero feliz
+        return "Funk"; 
     } else {
-        return "Rock"; // Género comodín (el más abundante en tu BD)
+        return "Rock"; 
     }
 }
 
-// Genera la playlist haciendo una petición simulada al futuro backend de AWS
+// Nueva función que se conecta a tu API de AWS
+async function obtenerCancionesDesdeAWS(generoSeleccionado) {
+    const apiUrl = `https://z9clq8ou4f.execute-api.us-east-1.amazonaws.com/canciones?genero=${generoSeleccionado}`;
+    
+    try {
+        const respuesta = await fetch(apiUrl);
+        const datos = await respuesta.json();
+        return datos.canciones || []; 
+    } catch (error) {
+        console.error("Error al conectar con DynamoDB:", error);
+        return [];
+    }
+}
+
+// Genera la playlist haciendo la petición real a AWS
 async function generatePlaylist() {
     const btn = document.querySelector('.submit-btn');
     btn.innerHTML = 'Conectando con AWS...';
@@ -60,29 +73,28 @@ async function generatePlaylist() {
     const targetGenre = determineGenre(answers);
     console.log(`Género seleccionado por el algoritmo: ${targetGenre}`);
 
-    setTimeout(async () => {
-        navTo('view-loading');
-        btn.innerHTML = 'Generar TuRitmo';
-        btn.style.opacity = '1';
-        
-        // 3. AQUÍ IRÁ TU LLAMADA A AWS API GATEWAY
-        // const response = await fetch(`https://tu-api-gateway.amazonaws.com/prod/playlist?genero=${targetGenre}`);
-        // const data = await response.json();
-        
-        // --- SIMULACIÓN PARA TU AVANCE ---
-        // Simulamos la respuesta de DynamoDB limitando a 10 canciones
-        const mockSongs = [
-            "Canción 1", "Canción 2", "Canción 3", "Canción 4", "Canción 5",
-            "Canción 6", "Canción 7", "Canción 8", "Canción 9", "Canción 10"
-        ];
-        
-        // Actualizar el DOM con el resultado
-        document.querySelector('.track-info p').innerText = `10 canciones de ${targetGenre} • Personalizada`;
-        
-        setTimeout(() => {
-            navTo('view-result');
-        }, 3500);
-    }, 800);
+    // Mostrar pantalla de carga
+    navTo('view-loading');
+    
+    // 3. LLAMADA REAL A AWS API GATEWAY
+    const playlist = await obtenerCancionesDesdeAWS(targetGenre);
+    
+    console.log("Playlist recibida de AWS:", playlist);
+
+    // Restaurar el botón
+    btn.innerHTML = 'Generar TuRitmo';
+    btn.style.opacity = '1';
+    
+    // Actualizar el DOM con la cantidad real de canciones que devolvió la base de datos
+    const trackInfoElement = document.querySelector('.track-info p');
+    if (trackInfoElement) {
+        trackInfoElement.innerText = `${playlist.length} canciones de ${targetGenre} • Personalizada`;
+    }
+    
+    // Navegar al resultado
+    setTimeout(() => {
+        navTo('view-result');
+    }, 1000); 
 }
 
 function updateSliderColor(slider) {
