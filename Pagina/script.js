@@ -62,36 +62,46 @@ async function generatePlaylist() {
     btn.innerHTML = 'Conectando con AWS...';
     btn.style.opacity = '0.7';
     
-    // 1. Recopilar valores de los sliders
     const answers = {
         q2: parseInt(document.getElementById('q2').value),
         q4: parseInt(document.getElementById('q4').value),
         q5: parseInt(document.getElementById('q5').value)
     };
 
-    // 2. Determinar el género basado en las emociones
     const targetGenre = determineGenre(answers);
-    console.log(`Género seleccionado por el algoritmo: ${targetGenre}`);
-
-    // Mostrar pantalla de carga
     navTo('view-loading');
     
-    // 3. LLAMADA REAL A AWS API GATEWAY
+    // Llamada real a tu API
     const playlist = await obtenerCancionesDesdeAWS(targetGenre);
     
-    console.log("Playlist recibida de AWS:", playlist);
-
-    // Restaurar el botón
     btn.innerHTML = 'Generar TuRitmo';
     btn.style.opacity = '1';
     
-    // Actualizar el DOM con la cantidad real de canciones que devolvió la base de datos
+    // 1. Actualizar el encabezado con el total
     const trackInfoElement = document.querySelector('.track-info p');
     if (trackInfoElement) {
         trackInfoElement.innerText = `${playlist.length} canciones de ${targetGenre} • Personalizada`;
     }
+
+    // 2. MOSTRAR LAS CANCIONES EN LA LISTA
+    // Buscamos el contenedor donde irán las canciones (asegúrate de tener un id="playlist-container" o similar en tu HTML)
+    const container = document.getElementById('playlist-items'); 
+    if (container) {
+        container.innerHTML = ''; // Limpiamos la lista anterior
+
+        playlist.forEach(track => {
+            const row = document.createElement('div');
+            row.className = 'song-item'; // Clase para darle estilo en CSS
+            row.innerHTML = `
+                <div class="song-details">
+                    <strong>${track.Cancion}</strong>
+                    <span>${track.Autor} • ${track.Album} (${track.Año})</span>
+                </div>
+            `;
+            container.appendChild(row);
+        });
+    }
     
-    // Navegar al resultado
     setTimeout(() => {
         navTo('view-result');
     }, 1000); 
